@@ -21,4 +21,3 @@ if [ $check -eq $1 ];then
 else
     echo not automorphic number
 fi
-

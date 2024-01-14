@@ -8,7 +8,7 @@ exec<$2
 case $1 in
 "-l")
     nol=0
-    while read line
+    while read line # read line is kind of a func
     do
         nol=`expr $nol + 1`
     done

@@ -1,5 +1,5 @@
-sample multiline text
-sample multiline text
-sample multiline text
-sample multiline text
-sample multiline text
+SAMPLE MULTILINE TEXT
+SAMPLE MULTILINE TEXT
+SAMPLE MULTILINE TEXT
+SAMPLE MULTILINE TEXT
+SAMPLE MULTILINE TEXT
